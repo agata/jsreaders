@@ -1,101 +1,88 @@
-  body.user-style-jsreaders {
-          background-position: left 40px;
-      background-attachment: fixed;
-              background-repeat: no-repeat;
-            background-color: #C0DEED;
-          color: #333333;
-    }
-  body.user-style-jsreaders a,
-  body.user-style-jsreaders ul.stream-tabs li,
-  body.user-style-jsreaders .component .promo strong,
-  body.user-style-jsreaders .message-thread-preview:hover .message-count,
-  body.user-style-jsreaders .list-membership-container li.create-a-list {
-          color: #0084B4;
-    }
-  body.user-style-jsreaders .stream-item:hover .tweet-screen-name,
-  body.user-style-jsreaders .stream-item:hover .tweet-timestamp,
-  body.user-style-jsreaders .stream-item:hover .tweet-geo-text,
-  body.user-style-jsreaders .stream-item:hover .user-profile-link,
-  body.user-style-jsreaders span.user-stat-link,
-  body.user-style-jsreaders a.title-link:hover,
-  body.user-style-jsreaders a.user-stats-count:hover span.user-stats-stat,
-  body.user-style-jsreaders .dashboard .user-small-list-item:hover a.user-screen-name,
-  body.user-style-jsreaders .dashboard .user-small-list-item:hover .user-meta a,
-  body.user-style-jsreaders .user-detailed-list-item:hover a.user-screen-name,
-  body.user-style-jsreaders .tweet-activity:hover a.latest-tweet-timestamp,
-  body.user-style-jsreaders .stream-item:hover a.icon-link,
-  body.user-style-jsreaders .stream-item:hover a.icon-link b,
-  body.user-style-jsreaders .stream-item:hover .tweet-feedback,
-  body.user-style-jsreaders .dashboard ul.trends li a:hover span.icon-link,
-  body.user-style-jsreaders .dashboard-activity-item-sentence .dashboard-activity-item-entity,
-  body.user-style-jsreaders .dashboard-activity-item-sentence .dashboard-activity-item-entity .user,
-  body.user-style-jsreaders .dashboard-activity-item-link:hover .dashboard-activity-item-sentence,
-  body.user-style-jsreaders .dashboard-activity-item-link:hover .dashboard-activity-item-sentence span.user {
-          color: #0084B4 !important;
-    }
-  body.user-style-jsreaders .hovered-stream-item,
-  body.user-style-jsreaders .stream-item:hover,
-  body.user-style-jsreaders #new-tweets-bar,
-  body.user-style-jsreaders #new-tweets-bar:active {
-          background-color: rgba(0,132,180,0.1);
-          border-color: rgba(0,132,180,0.15);
-    }
-  body.user-style-jsreaders #new-tweets-bar:hover {
-          background-color: rgba(0,132,180,0.2);
-          border-color: rgba(0,132,180,0.25);
-    }
-  body.user-style-jsreaders .dashboard .user-small-list-item .user-screen-name,
-  body.user-style-jsreaders .profile-screenname,
-  body.user-style-jsreaders .title-link,
-  body.user-style-jsreaders div.latest-tweet .latest-tweet-timestamp,
-  body.user-style-jsreaders div.truncated-tweet .latest-tweet-timestamp,
-  body.user-style-jsreaders a.user-stats-count span.user-stats-stat,
-  body.user-style-jsreaders .welcome-steps li .active a strong,
-  body.user-style-jsreaders .dashboard-activity-item-sentence span.user {
-          color: #333333;
-    }
-  body.user-style-jsreaders .dashboard .user-small-list-item .user-full-name,
-  body.user-style-jsreaders span.trend-location,
-  body.user-style-jsreaders .your-activity h3,
-  body.user-style-jsreaders .trends-inner h3,
-  body.user-style-jsreaders .dashboard .user-rec-inner h3,
-  body.user-style-jsreaders .latest-tweet,
-  body.user-style-jsreaders .truncated-tweet,
-  body.user-style-jsreaders .latest-tweet a.latest-tweet-timestamp,
-  body.user-style-jsreaders .truncated-tweet a.latest-tweet-timestamp,
-  body.user-style-jsreaders .dashboard .user-small-list-item .user-meta,
-  body.user-style-jsreaders .dashboard .user-small-list-item .user-meta a,
-  body.user-style-jsreaders .social-context div,
-  body.user-style-jsreaders .dashboard .dot,
-  body.user-style-jsreaders .component .promo,
-  body.user-style-jsreaders .component .promo a.definition,
-  body.user-style-jsreaders .dashboard .user-small-list-item .dismiss,
-  body.user-style-jsreaders .dashboard .user-small-list-item .ellip,
-  body.user-style-jsreaders .facets-media-not-displayed .not-displayed-text,
-  body.user-style-jsreaders .dashboard .copyright,
-  body.user-style-jsreaders .dashboard .user-small-list-item a.icon-link,
-  body.user-style-jsreaders .dashboard ul.trends li a span.icon-link,
-  body.user-style-jsreaders .dashboard-activity-item-link,
-  body.user-style-jsreaders .dashboard-activity-item-sentence {
-          color: rgba(51,51,51,0.6);
-    }
-  body.user-style-jsreaders #page-container,
-  body.user-style-jsreaders .user-sidebar-color {
-          /* IE7/8 */
-      background: #DDEEF6;
-          /* Modern browsers */
-      background: rgba(221,238,246,0.9);
-          /* IE6 */
-      _background-color: #DDEEF6;
-    }
-  body.user-style-jsreaders .activity:hover .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content,
-  body.user-style-jsreaders .hovered-stream-item .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content,
-  body.user-style-jsreaders .dashboard .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content  {
-          border-color: rgba(0,132,180,0.15) !important;
-    }
-.profile-style-jsreaders a {
-      color: #0084B4 !important;
-  }
-a:hover .geo-pin, body.user-style-jsreaders .stream-item:hover .geo-pin {
-  background-color: #0084B4;
+body.user-style-jsreaders {
+    background-position: left 40px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-color: #C0DEED;
+    color: #333333;
 }
+body.user-style-jsreaders a,
+body.user-style-jsreaders ul.stream-tabs li,
+body.user-style-jsreaders .component .promo strong,
+body.user-style-jsreaders .message-thread-preview:hover .message-count,
+body.user-style-jsreaders .list-membership-container li.create-a-list { color: #0084B4 }
+body.user-style-jsreaders .stream-item:hover .tweet-screen-name,
+body.user-style-jsreaders .stream-item:hover .tweet-timestamp,
+body.user-style-jsreaders .stream-item:hover .tweet-geo-text,
+body.user-style-jsreaders .stream-item:hover .user-profile-link,
+body.user-style-jsreaders span.user-stat-link,
+body.user-style-jsreaders a.title-link:hover,
+body.user-style-jsreaders a.user-stats-count:hover span.user-stats-stat,
+body.user-style-jsreaders .dashboard .user-small-list-item:hover a.user-screen-name,
+body.user-style-jsreaders .dashboard .user-small-list-item:hover .user-meta a,
+body.user-style-jsreaders .user-detailed-list-item:hover a.user-screen-name,
+body.user-style-jsreaders .tweet-activity:hover a.latest-tweet-timestamp,
+body.user-style-jsreaders .stream-item:hover a.icon-link,
+body.user-style-jsreaders .stream-item:hover a.icon-link b,
+body.user-style-jsreaders .stream-item:hover .tweet-feedback,
+body.user-style-jsreaders .dashboard ul.trends li a:hover span.icon-link,
+body.user-style-jsreaders .dashboard-activity-item-sentence .dashboard-activity-item-entity,
+body.user-style-jsreaders .dashboard-activity-item-sentence .dashboard-activity-item-entity .user,
+body.user-style-jsreaders .dashboard-activity-item-link:hover .dashboard-activity-item-sentence,
+body.user-style-jsreaders .dashboard-activity-item-link:hover .dashboard-activity-item-sentence span.user { color: #0084B4 !important }
+body.user-style-jsreaders .hovered-stream-item,
+body.user-style-jsreaders .stream-item:hover,
+body.user-style-jsreaders #new-tweets-bar,
+body.user-style-jsreaders #new-tweets-bar:active {
+    background-color: rgba(0,132,180,0.1);
+    border-color: rgba(0,132,180,0.15);
+}
+body.user-style-jsreaders #new-tweets-bar:hover {
+    background-color: rgba(0,132,180,0.2);
+    border-color: rgba(0,132,180,0.25);
+}
+body.user-style-jsreaders .dashboard .user-small-list-item .user-screen-name,
+body.user-style-jsreaders .profile-screenname,
+body.user-style-jsreaders .title-link,
+body.user-style-jsreaders div.latest-tweet .latest-tweet-timestamp,
+body.user-style-jsreaders div.truncated-tweet .latest-tweet-timestamp,
+body.user-style-jsreaders a.user-stats-count span.user-stats-stat,
+body.user-style-jsreaders .welcome-steps li .active a strong,
+body.user-style-jsreaders .dashboard-activity-item-sentence span.user { color: #333333 }
+body.user-style-jsreaders .dashboard .user-small-list-item .user-full-name,
+body.user-style-jsreaders span.trend-location,
+body.user-style-jsreaders .your-activity h3,
+body.user-style-jsreaders .trends-inner h3,
+body.user-style-jsreaders .dashboard .user-rec-inner h3,
+body.user-style-jsreaders .latest-tweet,
+body.user-style-jsreaders .truncated-tweet,
+body.user-style-jsreaders .latest-tweet a.latest-tweet-timestamp,
+body.user-style-jsreaders .truncated-tweet a.latest-tweet-timestamp,
+body.user-style-jsreaders .dashboard .user-small-list-item .user-meta,
+body.user-style-jsreaders .dashboard .user-small-list-item .user-meta a,
+body.user-style-jsreaders .social-context div,
+body.user-style-jsreaders .dashboard .dot,
+body.user-style-jsreaders .component .promo,
+body.user-style-jsreaders .component .promo a.definition,
+body.user-style-jsreaders .dashboard .user-small-list-item .dismiss,
+body.user-style-jsreaders .dashboard .user-small-list-item .ellip,
+body.user-style-jsreaders .facets-media-not-displayed .not-displayed-text,
+body.user-style-jsreaders .dashboard .copyright,
+body.user-style-jsreaders .dashboard .user-small-list-item a.icon-link,
+body.user-style-jsreaders .dashboard ul.trends li a span.icon-link,
+body.user-style-jsreaders .dashboard-activity-item-link,
+body.user-style-jsreaders .dashboard-activity-item-sentence { color: rgba(51,51,51,0.6) }
+body.user-style-jsreaders #page-container,
+body.user-style-jsreaders .user-sidebar-color {
+    /* IE7/8 */
+    background: #DDEEF6;
+    /* Modern browsers */
+    background: rgba(221,238,246,0.9);
+    /* IE6 */
+    _background-color: #DDEEF6;
+}
+body.user-style-jsreaders .activity:hover .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content,
+body.user-style-jsreaders .hovered-stream-item .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content,
+body.user-style-jsreaders .dashboard .stream-item-activity-network .activity-supplement .activity-item-tweet .activity-item-tweet-content { border-color: rgba(0,132,180,0.15) !important }
+.profile-style-jsreaders a { color: #0084B4 !important }
+a:hover .geo-pin,
+body.user-style-jsreaders .stream-item:hover .geo-pin { background-color: #0084B4 }
