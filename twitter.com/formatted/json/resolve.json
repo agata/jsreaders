@@ -1,0 +1,16 @@
+// http://api.twitter.com/1/urls/resolve.json?urls%5B%5D=http%3A%2F%2Ft.co%2FgGQ4sGK&urls%5B%5D=http%3A%2F%2Ft.co%2FagDZXkj&urls%5B%5D=http%3A%2F%2Ft.co%2FFEG44m9&urls%5B%5D=http%3A%2F%2Ft.co%2F8BzEf1y&urls%5B%5D=http%3A%2F%2Ft.co%2FMLKwY1A&urls%5B%5D=http%3A%2F%2Ft.co%2Fr8hkUWx&urls%5B%5D=http%3A%2F%2Ft.co%2Fr8hkUWx&urls%5B%5D=http%3A%2F%2Ft.co%2F5XhXmdc&urls%5B%5D=http%3A%2F%2Ft.co%2F5XhXmdc&urls%5B%5D=http%3A%2F%2Ft.co%2FScevy4v&urls%5B%5D=http%3A%2F%2Ft.co%2Fe6Z4Jgo&urls%5B%5D=http%3A%2F%2Ft.co%2FW8IlZqy&urls%5B%5D=http%3A%2F%2Fbit.ly%2FmUQm7I&urls%5B%5D=http%3A%2F%2Fbit.ly%2FmUQm7I&urls%5B%5D=http%3A%2F%2Fbit.ly%2FmTGMkS&urls%5B%5D=http%3A%2F%2Ft.co%2FnMAEREd
+{
+    "http:\/\/t.co\/r8hkUWx": "http:\/\/blog.cacoo.com\/ja\/2011\/08\/10\/shortcutkeys\/",
+    "http:\/\/t.co\/nMAEREd": "http:\/\/blog.cacoo.com\/ja\/2011\/08\/03\/create-stencil-using-cacoo-only\/",
+    "http:\/\/t.co\/Scevy4v": "http:\/\/www.backlog.jp\/news\/news\/post-38.html\/",
+    "http:\/\/t.co\/8BzEf1y": "http:\/\/www.backlog.jp\/blog\/2011\/08\/backlog-8.html\/",
+    "http:\/\/bit.ly\/mTGMkS": "http:\/\/aws.typepad.com\/aws\/2011\/08\/aws-identity-and-access-management-now-with-identity-federation.html\/",
+    "http:\/\/t.co\/agDZXkj": "http:\/\/d.hatena.ne.jp\/ikikko\/20110817\/1313592695\/",
+    "http:\/\/bit.ly\/mUQm7I": "http:\/\/jp.techcrunch.com\/archives\/20110804google-announces-plans-to-bake-android-like-web-intents-into-chrome\/",
+    "http:\/\/t.co\/gGQ4sGK": "https:\/\/market.android.com\/details\/?id=net.shoozhoo.cacoomiru",
+    "http:\/\/t.co\/e6Z4Jgo": "http:\/\/blog.cacoo.com\/ja\/2011\/08\/09\/interview-with-olivier-in-paris\/",
+    "http:\/\/t.co\/5XhXmdc": "http:\/\/www.backlog.jp\/blog\/2011\/08\/wikiquicktable.html\/",
+    "http:\/\/t.co\/FEG44m9": "http:\/\/www.backlog.jp\/blog\/2011\/08\/backlog-8.html\/",
+    "http:\/\/t.co\/MLKwY1A": "http:\/\/blog.cacoo.com\/ja\/2011\/08\/18\/interview-with-ben-in-london\/",
+    "http:\/\/t.co\/W8IlZqy": "http:\/\/blog.cacoo.com\/ja\/2011\/08\/05\/interview-with-wes-in-london\/"
+}

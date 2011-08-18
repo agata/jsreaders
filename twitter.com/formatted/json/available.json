@@ -1,0 +1,1222 @@
+// http://api.twitter.com/1/trends/available.json?lang=ja
+[{
+    "name": "\u30c8\u30eb\u30b3",
+    "countryCode": "TR",
+    "country": "Turkey",
+    "parentid": 1,
+    "woeid": 23424969,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424969",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "name": "\u30d0\u30fc\u30df\u30f3\u30ac\u30e0",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2364559,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2364559"
+}, {
+    "name": "\u30ab\u30e9\u30ab\u30b9",
+    "countryCode": "VE",
+    "parentid": 23424982,
+    "country": "Venezuela",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 395269,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395269"
+}, {
+    "parentid": 23424846,
+    "name": "\u30d0\u30f3\u30c9\u30f3",
+    "countryCode": "ID",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Indonesia",
+    "woeid": 1047180,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1047180"
+}, {
+    "name": "\u30c7\u30c8\u30ed\u30a4\u30c8",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2391585,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2391585",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "parentid": 23424975,
+    "name": "\u30b0\u30e9\u30b9\u30b4\u30fc",
+    "countryCode": "GB",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United Kingdom",
+    "woeid": 21125,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/21125"
+}, {
+    "name": "\u30d9\u30cd\u30ba\u30a8\u30e9",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "parentid": 1,
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424982,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424982"
+}, {
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "name": "\u65e5\u672c",
+    "countryCode": "JP",
+    "country": "Japan",
+    "woeid": 23424856,
+    "parentid": 1,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424856"
+}, {
+    "parentid": 23424977,
+    "name": "\u30e9\u30b9\u30d9\u30ac\u30b9",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2436704,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2436704"
+}, {
+    "name": "\u30b5\u30af\u30e9\u30e1\u30f3\u30c8",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2486340,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2486340",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30d0\u30eb\u30ad\u30b7\u30e1\u30c8",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "woeid": 468382,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/468382",
+    "parentid": 23424982
+}, {
+    "name": "\u30b7\u30a2\u30c8\u30eb",
+    "parentid": 23424977,
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2490383,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2490383"
+}, {
+    "name": "\u30d5\u30a3\u30ea\u30d4\u30f3",
+    "parentid": 1,
+    "countryCode": "PH",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Philippines",
+    "woeid": 23424934,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424934"
+}, {
+    "parentid": 23424775,
+    "name": "\u30e2\u30f3\u30c8\u30ea\u30aa\u30fc\u30eb",
+    "countryCode": "CA",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Canada",
+    "woeid": 3534,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/3534"
+}, {
+    "name": "\u30a4\u30bf\u30ea\u30a2",
+    "countryCode": "IT",
+    "country": "Italy",
+    "parentid": 1,
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424853,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424853"
+}, {
+    "parentid": 23424900,
+    "name": "\u30e2\u30f3\u30c6\u30ec\u30a4",
+    "countryCode": "MX",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Mexico",
+    "woeid": 134047,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/134047"
+}, {
+    "name": "\u30d0\u30f3\u30af\u30fc\u30d0\u30fc",
+    "countryCode": "CA",
+    "country": "Canada",
+    "parentid": 23424775,
+    "woeid": 9807,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/9807",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "parentid": 23424977,
+    "name": "\u30a2\u30c8\u30e9\u30f3\u30bf",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2357024,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2357024"
+}, {
+    "parentid": 1,
+    "name": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2",
+    "countryCode": "AU",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Australia",
+    "woeid": 23424748,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424748"
+}, {
+    "name": "\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9",
+    "parentid": 23424747,
+    "countryCode": "AR",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Argentina",
+    "woeid": 468739,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/468739"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u30dd\u30ea\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "woeid": 2427032,
+    "parentid": 23424977,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2427032"
+}, {
+    "name": "\u30d0\u30ec\u30f3\u30b7\u30a2",
+    "countryCode": "VE",
+    "country": "Venezuela",
+    "parentid": 23424982,
+    "woeid": 395272,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395272",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30dd\u30fc\u30c8\u30e9\u30f3\u30c9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2475687,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2475687"
+}, {
+    "name": "\u30d2\u30e5\u30fc\u30b9\u30c8\u30f3",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2424766,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2424766"
+}, {
+    "name": "\u30df\u30cd\u30a2\u30dd\u30ea\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2452078,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2452078"
+}, {
+    "name": "\u30aa\u30fc\u30b9\u30c1\u30f3",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2357536,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2357536",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30b5\u30f3\u30d1\u30a6\u30ed",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "woeid": 455827,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455827",
+    "parentid": 23424768
+}, {
+    "name": "\u30de\u30ec\u30fc\u30b7\u30a2",
+    "countryCode": "MY",
+    "country": "Malaysia",
+    "parentid": 1,
+    "woeid": 23424901,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424901",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "name": "\u30d6\u30e9\u30b8\u30eb",
+    "countryCode": "BR",
+    "country": "Brazil",
+    "woeid": 23424768,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424768",
+    "parentid": 1
+}, {
+    "name": "\u30b5\u30f3\u30a2\u30f3\u30c8\u30cb\u30aa",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2487796,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2487796"
+}, {
+    "parentid": 1,
+    "name": "\u30b3\u30ed\u30f3\u30d3\u30a2",
+    "countryCode": "CO",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Colombia",
+    "woeid": 23424787,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424787"
+}, {
+    "name": "\u30a8\u30af\u30a2\u30c9\u30eb",
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "parentid": 1,
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424801,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424801"
+}, {
+    "name": "\u30af\u30a2\u30e9\u30eb\u30f3\u30d7\u30fc\u30eb",
+    "parentid": 23424901,
+    "countryCode": "MY",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Malaysia",
+    "woeid": 1154781,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1154781"
+}, {
+    "parentid": 23424982,
+    "name": "\u30de\u30e9\u30ab\u30a4\u30dc",
+    "countryCode": "VE",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Venezuela",
+    "woeid": 395270,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/395270"
+}, {
+    "parentid": 23424977,
+    "name": "\u30df\u30eb\u30a6\u30a9\u30fc\u30ad\u30fc",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2451822,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2451822"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30d7\u30ed\u30d3\u30c7\u30f3\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "woeid": 2477058,
+    "parentid": 23424977,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2477058"
+}, {
+    "name": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3",
+    "countryCode": "AR",
+    "parentid": 1,
+    "country": "Argentina",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424747,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424747"
+}, {
+    "name": "\u30dc\u30eb\u30c1\u30e2\u30a2",
+    "parentid": 23424977,
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2358820,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2358820"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "woeid": 727232,
+    "parentid": 23424909,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/727232"
+}, {
+    "name": "\u30de\u30f3\u30c1\u30a7\u30b9\u30bf\u30fc",
+    "countryCode": "GB",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 28218,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/28218"
+}, {
+    "name": "\u30ab\u30ca\u30c0",
+    "countryCode": "CA",
+    "parentid": 1,
+    "country": "Canada",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424775,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424775"
+}, {
+    "name": "\u30b5\u30f3\u30d5\u30e9\u30f3\u30b7\u30b9\u30b3",
+    "parentid": 23424977,
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2487956,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2487956"
+}, {
+    "parentid": 23424977,
+    "name": "\u30dc\u30b9\u30c8\u30f3",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2367105,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2367105"
+}, {
+    "name": "\u30ed\u30f3\u30c9\u30f3",
+    "countryCode": "GB",
+    "parentid": 23424975,
+    "country": "United Kingdom",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 44418,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/44418"
+}, {
+    "name": "\u30b5\u30f3\u30c1\u30a2\u30b4",
+    "countryCode": "CL",
+    "country": "Chile",
+    "parentid": 23424782,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 349859,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/349859"
+}, {
+    "parentid": 1,
+    "name": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd",
+    "countryCode": "DO",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Dominican Republic",
+    "woeid": 23424800,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424800"
+}, {
+    "name": "\u30b7\u30f3\u30b7\u30ca\u30c6\u30a3",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2380358,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2380358"
+}, {
+    "name": "\u30c1\u30ea",
+    "countryCode": "CL",
+    "country": "Chile",
+    "parentid": 1,
+    "woeid": 23424782,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424782",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "name": "\u30b8\u30e3\u30ab\u30eb\u30bf",
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "parentid": 23424846,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 1047378,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1047378"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30c0\u30d6\u30ea\u30f3",
+    "countryCode": "IE",
+    "country": "Ireland",
+    "woeid": 560743,
+    "parentid": 23424803,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/560743"
+}, {
+    "name": "\u6771\u4eac",
+    "countryCode": "JP",
+    "country": "Japan",
+    "parentid": 23424856,
+    "woeid": 1118370,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1118370",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30d4\u30c3\u30c4\u30d0\u30fc\u30b0",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2473224,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2473224"
+}, {
+    "name": "\u30c9\u30a4\u30c4",
+    "countryCode": "DE",
+    "country": "Germany",
+    "parentid": 1,
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424829,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424829"
+}, {
+    "parentid": 23424748,
+    "name": "\u30b7\u30c9\u30cb\u30fc",
+    "countryCode": "AU",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Australia",
+    "woeid": 1105779,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1105779"
+}, {
+    "name": "\u30a4\u30f3\u30c9",
+    "countryCode": "IN",
+    "country": "India",
+    "parentid": 1,
+    "woeid": 23424848,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424848",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "name": "\u30de\u30a4\u30a2\u30df",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2450022,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2450022",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "parentid": 1,
+    "woeid": 23424908,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424908",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "name": "\u30e0\u30f3\u30d0\u30a4",
+    "countryCode": "IN",
+    "parentid": 23424848,
+    "country": "India",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2295411,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2295411"
+}, {
+    "name": "\u30b9\u30da\u30a4\u30f3",
+    "parentid": 1,
+    "countryCode": "ES",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Spain",
+    "woeid": 23424950,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424950"
+}, {
+    "parentid": 23424977,
+    "name": "\u30bf\u30f3\u30d1",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2503863,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2503863"
+}, {
+    "name": "\u30e1\u30ad\u30b7\u30b3\u30b7\u30c6\u30a3",
+    "countryCode": "MX",
+    "parentid": 23424900,
+    "country": "Mexico",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 116545,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/116545"
+}, {
+    "name": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9",
+    "parentid": 1,
+    "countryCode": "IE",
+    "country": "Ireland",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424803,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424803"
+}, {
+    "name": "\u30b0\u30ea\u30fc\u30f3\u30b9\u30d0\u30ed",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2414469,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2414469",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "parentid": 23424775,
+    "name": "\u30c8\u30ed\u30f3\u30c8",
+    "countryCode": "CA",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Canada",
+    "woeid": 4118,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/4118"
+}, {
+    "name": "\u30bd\u30eb\u30c8\u30ec\u30a4\u30af\u30b7\u30c6\u30a3",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2487610,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2487610"
+}, {
+    "parentid": 23424977,
+    "name": "\u30b7\u30ab\u30b4",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2379574,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2379574"
+}, {
+    "name": "\u30dc\u30b4\u30bf",
+    "countryCode": "CO",
+    "parentid": 23424787,
+    "country": "Colombia",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 368148,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/368148"
+}, {
+    "name": "\u30a4\u30ae\u30ea\u30b9",
+    "parentid": 1,
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424975,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424975"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30e9\u30b4\u30b9",
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "woeid": 1398823,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1398823",
+    "parentid": 23424908
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30ca\u30c3\u30b7\u30e5\u30d3\u30eb",
+    "countryCode": "US",
+    "country": "United States",
+    "woeid": 2457170,
+    "parentid": 23424977,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2457170"
+}, {
+    "name": "\u30cb\u30e5\u30fc\u30e8\u30fc\u30af",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2459115,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2459115",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb",
+    "countryCode": "SG",
+    "country": "Singapore",
+    "parentid": 1,
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424948,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424948"
+}, {
+    "parentid": 1,
+    "name": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2",
+    "countryCode": "ID",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Indonesia",
+    "woeid": 23424846,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424846"
+}, {
+    "name": "\u30b5\u30f3\u30c7\u30a3\u30a8\u30b4",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2487889,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2487889"
+}, {
+    "name": "\u30cb\u30e5\u30fc\u30fb\u30d8\u30a4\u30f4\u30f3",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2458410,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2458410"
+}, {
+    "name": "\u5357\u30a2\u30d5\u30ea\u30ab",
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "parentid": 1,
+    "woeid": 23424942,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424942",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "parentid": 23424977,
+    "name": "\u30ea\u30c3\u30c1\u30e2\u30f3\u30c9",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2480894,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2480894"
+}, {
+    "name": "\u4e16\u754c\u4e2d",
+    "countryCode": null,
+    "placeType": {
+        "name": "Supername",
+        "code": 19
+    },
+    "country": "",
+    "woeid": 1,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1"
+}, {
+    "parentid": 23424977,
+    "name": "\u30b8\u30e3\u30af\u30bd\u30f3",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2428184,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2428184"
+}, {
+    "name": "\u30ef\u30b7\u30f3\u30c8\u30f3",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2514815,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2514815"
+}, {
+    "parentid": 1,
+    "name": "\u30da\u30eb\u30fc",
+    "countryCode": "PE",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "Peru",
+    "woeid": 23424919,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424919"
+}, {
+    "name": "\u30d5\u30a3\u30e9\u30c7\u30eb\u30d5\u30a3\u30a2",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2471217,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2471217"
+}, {
+    "name": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af",
+    "parentid": 23424977,
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2460389,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2460389"
+}, {
+    "name": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3",
+    "countryCode": "SE",
+    "parentid": 1,
+    "country": "Sweden",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "woeid": 23424954,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424954"
+}, {
+    "name": "\u30e9\u30ec\u30fc",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2478307,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2478307"
+}, {
+    "name": "\u30b7\u30e3\u30fc\u30ed\u30c3\u30c8",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2378426,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2378426"
+}, {
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "name": "\u30e1\u30ad\u30b7\u30b3",
+    "countryCode": "MX",
+    "country": "Mexico",
+    "woeid": 23424900,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424900",
+    "parentid": 1
+}, {
+    "parentid": 23424977,
+    "name": "\u30cb\u30e5\u30fc\u30aa\u30ea\u30f3\u30ba",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2458833,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2458833"
+}, {
+    "name": "\u30ea\u30de",
+    "parentid": 23424919,
+    "countryCode": "PE",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Peru",
+    "woeid": 418440,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/418440"
+}, {
+    "name": "\u30de\u30c9\u30ea\u30fc\u30c9",
+    "countryCode": "ES",
+    "parentid": 23424950,
+    "country": "Spain",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 766273,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/766273"
+}, {
+    "parentid": 23424977,
+    "name": "\u30bf\u30e9\u30cf\u30b7\u30fc",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2503713,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2503713"
+}, {
+    "parentid": 23424977,
+    "name": "\u30c0\u30e9\u30b9\u30fb\u30d5\u30a9\u30fc\u30c8\u30ef\u30fc\u30b9",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2388929,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2388929"
+}, {
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "name": "\u30aa\u30e9\u30f3\u30c0",
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "woeid": 23424909,
+    "parentid": 1,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424909"
+}, {
+    "parentid": 1,
+    "name": "\u30a2\u30e1\u30ea\u30ab",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "United States",
+    "woeid": 23424977,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424977"
+}, {
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "name": "\u30af\u30ea\u30fc\u30d6\u30e9\u30f3\u30c9",
+    "countryCode": "US",
+    "country": "United States",
+    "woeid": 2381475,
+    "parentid": 23424977,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2381475"
+}, {
+    "parentid": 23424977,
+    "name": "\u30d5\u30a7\u30cb\u30c3\u30af\u30b9",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2471390,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2471390"
+}, {
+    "name": "\u30e1\u30f3\u30d5\u30a3\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2449323,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2449323",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9",
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "parentid": 1,
+    "woeid": 23424916,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424916",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    }
+}, {
+    "name": "\u30b3\u30ed\u30f3\u30d6\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2383660,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2383660"
+}, {
+    "parentid": 1,
+    "name": "\u30d5\u30e9\u30f3\u30b9",
+    "countryCode": "FR",
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "country": "France",
+    "woeid": 23424819,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424819"
+}, {
+    "name": "\u30d0\u30fc\u30df\u30f3\u30ac\u30e0",
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "parentid": 23424975,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 12723,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/12723"
+}, {
+    "name": "\u30bb\u30f3\u30c8\u30eb\u30a4\u30b9",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2486982,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2486982"
+}, {
+    "name": "\u30aa\u30fc\u30e9\u30f3\u30c9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2466256,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2466256"
+}, {
+    "name": "\u30c7\u30f3\u30d0\u30fc",
+    "countryCode": "US",
+    "parentid": 23424977,
+    "country": "United States",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2391279,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2391279"
+}, {
+    "name": "\u30e8\u30cf\u30cd\u30b9\u30d6\u30eb\u30b0",
+    "countryCode": "ZA",
+    "parentid": 23424942,
+    "country": "South Africa",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 1582504,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/1582504"
+}, {
+    "name": "\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "woeid": 2442047,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2442047"
+}, {
+    "placeType": {
+        "name": "Country",
+        "code": 12
+    },
+    "name": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6",
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "woeid": 23424738,
+    "parentid": 1,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/23424738"
+}, {
+    "parentid": 23424977,
+    "name": "\u30cf\u30ea\u30b9\u30d0\u30fc\u30b0",
+    "countryCode": "US",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "United States",
+    "woeid": 2418046,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2418046"
+}, {
+    "name": "\u30d0\u30c8\u30f3\u30eb\u30fc\u30b8\u30e5",
+    "countryCode": "US",
+    "country": "United States",
+    "parentid": 23424977,
+    "woeid": 2359991,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/2359991",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    }
+}, {
+    "name": "\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4",
+    "parentid": 23424800,
+    "countryCode": "DO",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Dominican Republic",
+    "woeid": 76456,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/76456"
+}, {
+    "name": "\u30ea\u30aa\u30c7\u30b8\u30e3\u30cd\u30a4\u30ed",
+    "parentid": 23424768,
+    "countryCode": "BR",
+    "placeType": {
+        "name": "Town",
+        "code": 7
+    },
+    "country": "Brazil",
+    "woeid": 455825,
+    "url": "http:\/\/where.yahooapis.com\/v1\/place\/455825"
+}]
