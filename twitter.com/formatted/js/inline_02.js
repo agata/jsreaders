@@ -1,3 +1,8 @@
+/// WATCHオブジェクトの定義
+/// WATCHオブジェクトは実行中のJSを監視するための関数っぽい
+/// ある処理が実行中なら、処理をおこなわないなどの判定にも使用できそう
+/// ここでは深追いはしないことにします
+/// _付きのオブジェクトはprivateメソッドだと思う
 (function() {
     window.setTimeout = window.setTimeout;
     window.setInterval = window.setInterval;
