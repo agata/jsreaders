@@ -1,3 +1,4 @@
+/// GoogleAnalytice用js
 var _gaq = _gaq || [];
 _gaq.push(["_setAccount", "UA-30775-6"]);
 _gaq.push(["_trackPageview"], ["_setDomainName", "twitter.com"]);
