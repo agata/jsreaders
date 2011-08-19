@@ -1,3 +1,6 @@
+/// 何かしら失敗したときにbody内を消去する関数？
+/// inline_03.jsで書かれているものとしては別hostからのアクセスをチェックしているように見える
+/// bust:失敗、故障
 function bust() {
     document.write = "";
     window.top.location = window.self.location;
